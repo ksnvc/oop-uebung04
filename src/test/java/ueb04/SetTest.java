@@ -42,7 +42,7 @@ class SetTest {
 		assertEquals(5, count);
 	}
 
-
+/*
 	@Test
 	void testLeafIterator() {
 		SetImpl<String> impl = new SetImpl<>();
@@ -61,5 +61,5 @@ class SetTest {
 
 		assertEquals(1, li.size());
 		assertEquals("herum", li.get(0));
-	}
+	}*/
 }
